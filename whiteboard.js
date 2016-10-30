@@ -32,7 +32,6 @@ function init() {
 	canvas.freeDrawingBrush.width = mrkWidth;
 	canvas.selection = false;
 	canvas.hoverCursor = 'default';
-	fabric.isTouchSupported = true;
 	canvas.renderAll();
 
 	colorDiv = createColorDivs();
