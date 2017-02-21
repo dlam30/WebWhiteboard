@@ -17,12 +17,11 @@ div {
 }
 
 #panel {
-	min-width: 74px;	
+	min-width: 74px;
 	height: 100vh;
 	background: #343434;
 	float: left;
 	display: inline;
-	
 }
 
 #color {
@@ -30,10 +29,11 @@ div {
 }
 
 #canvas-container {
-	width: 94%;
+	margin-left: 74px;
+	width: 2000px;
 	height: 100vh;
 	background: white;
-	float: left;
+	/*float: left;*/
 }
 
 .button {

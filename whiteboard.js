@@ -141,6 +141,7 @@ markerBtn.addEventListener("click", function() {
 	canvas.freeDrawingBrush.color = mrkColor;
 	canvas.freeDrawingBrush.width = mrkWidth;
 	canvas.isDrawingMode = true;
+	console.log('marker is clicked');
 });
 
 // Eraser
