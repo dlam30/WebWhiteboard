@@ -30,8 +30,8 @@ div {
 
 #canvas-container {
 	margin-left: 74px;
-	width: 2000px;
-	height: 2000px;
+	width: 5000px;
+	height: 5000px;
 	background: white;
 	/*float: left;*/
 }
